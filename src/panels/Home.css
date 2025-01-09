@@ -1,0 +1,14 @@
+body {
+	overflow: hidden;
+}
+
+.groups {
+	height: 100vh;
+}
+
+.Banner {
+	background: url(/src/assets/promo_banner.2a97390541a89f5f8b9af6b483b4cda8.png);
+	background-size: contain;
+	padding-top: 26%;
+	width: 100%;
+}
