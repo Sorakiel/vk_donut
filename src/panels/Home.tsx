@@ -96,7 +96,7 @@ export const Home = () => {
 					setLoading(false)
 				}
 			}
-
+			console.log('Done')
 			fetchGroups()
 		}
 	}, [authToken])

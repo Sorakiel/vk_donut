@@ -23,7 +23,7 @@ export const App = () => {
 		<SplitLayout popout={popout}>
 			<SplitCol>
 				<View activePanel={activePanel}>
-					<Home />
+					<Home id='home' />
 				</View>
 			</SplitCol>
 		</SplitLayout>
